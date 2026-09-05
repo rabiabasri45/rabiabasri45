@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://api.dicebear.com/9.x/lorelei/png?seed=Rabia-Basri&backgroundColor=60a5fa,1a1a2e&radius=50&size=200" width="180"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ## ◈ &nbsp; Who Am I?
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="260" src="https://api.dicebear.com/9.x/lorelei/png?seed=RabiaBasriAI&backgroundColor=1a1a2e,16213e&backgroundType=gradientLinear&radius=20&size=260"/>
 
 ```yaml
 name:         Rabia Basri
